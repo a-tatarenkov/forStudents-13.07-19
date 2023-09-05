@@ -25,3 +25,7 @@ a:hover {
     background-color: #545454;
     color: white;
 }
+ul li{  /*тут я додала padding, тому що li находили на себе*/
+
+    padding: 20px 0 20px 0;
+}
